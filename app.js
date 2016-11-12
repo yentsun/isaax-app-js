@@ -5,4 +5,5 @@ setInterval(function() {
   console.log("***********************");
   console.log(" end of message ")
   console.log("Bye!")
+  console.log("x_x")
 }, 5000);
