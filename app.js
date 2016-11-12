@@ -4,4 +4,5 @@ setInterval(function() {
   console.log("  New version message  ");
   console.log("***********************");
   console.log(" end of message ")
+  console.log("Bye!")
 }, 5000);
