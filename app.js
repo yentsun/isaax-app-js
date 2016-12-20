@@ -7,4 +7,5 @@ setInterval(function() {
   console.log("Bye!")
   console.log("x_x")
   console.log("o_O")
+  console.log("x_x")
 }, 5000);
