@@ -7,6 +7,7 @@ setInterval(function() {
   console.log("o_O")
   console.log("x_x")
   console.log(" end of message ")
+
   console.log("Bye!")
   console.log("End")
 }, 5000);
