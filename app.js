@@ -8,4 +8,5 @@ setInterval(function() {
   console.log("x_x")
   console.log("o_O")
   console.log("x_x")
+  console.log("End")
 }, 5000);
